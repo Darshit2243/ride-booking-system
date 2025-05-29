@@ -73,3 +73,7 @@
 2025-05-29 23:37:23,002 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Darshit\OneDrive\Desktop\Ride Booking System\ride-booking-system\src\test\resources
 2025-05-29 23:37:32,369 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Darshit\OneDrive\Desktop\Ride Booking System\ride-booking-system\src\main\resources
 2025-05-29 23:37:32,372 [Worker-76: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Darshit\OneDrive\Desktop\Ride Booking System\ride-booking-system\src\test\resources
+2025-05-29 23:38:50,824 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Darshit\OneDrive\Desktop\Ride Booking System\ride-booking-system\src\main\resources
+2025-05-29 23:38:50,829 [Worker-85: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Darshit\OneDrive\Desktop\Ride Booking System\ride-booking-system\src\test\resources
+2025-05-29 23:38:57,742 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Darshit\OneDrive\Desktop\Ride Booking System\ride-booking-system\src\main\resources
+2025-05-29 23:38:57,746 [Worker-84: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Darshit\OneDrive\Desktop\Ride Booking System\ride-booking-system\src\test\resources
